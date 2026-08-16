@@ -1,2 +1,5 @@
-# SowaLink
-SowaLink is a fast, simple, and secure file-sharing platform designed to make transferring files effortless. Send photos, videos, documents, and more directly between devices with ease. Built for speed, privacy, and simplicity, SowaLink makes sharing feel effortless. ⚡📁❤️
+# SowaLink - Zero-Cloud E2EE Direct WiFi Peer-to-Peer Transfer
+1. Install dependencies:
+   `npm install`
+. Run the app:
+   `npm run dev`

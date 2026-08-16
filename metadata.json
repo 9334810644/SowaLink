@@ -1,0 +1,6 @@
+{
+  "name": "SowaLink - Secure P2P File Transfer",
+  "description": "End-to-end encrypted direct WiFi file transfer via WebRTC with QR code sharing and self-destruct links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
